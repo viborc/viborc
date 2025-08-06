@@ -9,7 +9,7 @@ But I wear more than one hat:
 
 - **Founder and agency leader** - Spent 14 years building and scaling two UX / software‑development agencies, delivering products used by 100s of millions.
 
-- **Early OSS Maintainer** - Helped maintain and grow **GPT‑Engineer** and its 50k starts+ community on GitHub, one of the first large‑scale AI OSS code‑generation platforms (which later evolved into Lovable).
+- **Early OSS Maintainer** - Helped maintain and grow **GPT‑Engineer** and its 50k+ stars community on GitHub, one of the first large‑scale AI OSS code‑generation platforms (which later evolved into Lovable).
 
 - **Microsoft Alum** - Cut my teeth at Microsoft before the cloud‑first era in Croatia and Denmark.
 
