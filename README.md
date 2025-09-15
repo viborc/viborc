@@ -2,14 +2,14 @@
 
 ### Builder · Generalist-with-Depth · DevRel, Community, and Success Manager
 
-I’m a **senior DevRel, community, and success manager at [Zencoder](https://zencoder.ai)**, where I help devs ship faster with autonomous AI coding agents.
+I’m a **senior DevRel, community, and success manager at [Zencoder](https://zencoder.ai)**, where I help devs ship faster with (autonomous) AI coding agents.
 
 But I wear more than one hat:
 - **Ops and Community** - Ran day‑to‑day ops and community at **Lovable.dev** (the AI‑first app‑builder that evolved from the GPT‑Engineer project).
 
 - **Founder and agency leader** - Spent 14 years building and scaling two UX / software‑development agencies, delivering products used by 100s of millions.
 
-- **Early OSS Maintainer** - Helped maintain and grow **GPT‑Engineer** and its 50k+ stars community on GitHub, one of the first large‑scale AI OSS code‑generation platforms (which later evolved into Lovable).
+- **Early OSS Maintainer** - Helped maintain and grow **GPT‑Engineer** and its 50k+ stars community on GitHub/10k+ on Discord, one of the first large‑scale AI OSS code‑generation platforms (which later evolved into Lovable).
 
 - **Microsoft Alum** - Cut my teeth at Microsoft before the cloud‑first era in Croatia and Denmark.
 
