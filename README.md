@@ -1,58 +1,53 @@
 # Hey, I’m Vibor 👋
 
-### Builder · Generalist-with-Depth · DevRel, Community, and Success Manager
+### Builder · Generalist-with-Depth · DevRel, Community & Growth
 
-I’m a **senior DevRel, community, and success manager at [Zencoder](https://zencoder.ai)**, where I help devs ship faster with (autonomous) AI coding agents.
+I’m **Head of Community Growth at [Daydream](https://daydream.live)**, building the community around **real-time AI video models and world models**. I love playing with and contributing to **[Scope](https://github.com/daydreamlive/scope)**, an open-source tool for running real-time, interactive AI pipelines.
 
 But I wear more than one hat:
-- **Ops and Community** - Ran day‑to‑day ops and community at **Lovable.dev** (the AI‑first app‑builder that evolved from the GPT‑Engineer project).
-
-- **Founder and agency leader** - Spent 14 years building and scaling two UX / software‑development agencies, delivering products used by 100s of millions.
-
-- **Early OSS Maintainer** - Helped maintain and grow **GPT‑Engineer** and its 50k+ stars community on GitHub/10k+ on Discord, one of the first large‑scale AI OSS code‑generation platforms (which later evolved into Lovable).
-
-- **Microsoft Alum** - Cut my teeth at Microsoft before the cloud‑first era in Croatia and Denmark.
+- **Ops & Community** — Ran day-to-day ops and community at **Lovable.dev** (the AI-first app builder that evolved from GPT-Engineer).
+- **Founder & agency leader** — 14 years building and scaling two UX / software-dev agencies shipping products used by 100s of millions.
+- **Early OSS Maintainer** — Helped maintain and grow **GPT-Engineer** (50k+ ⭐ on GitHub / 10k+ Discord) before it evolved into Lovable.
+- **Microsoft alum** — Cut my teeth at Microsoft (Croatia & Denmark), pre cloud-first era.
 
 ---
 
 ## 🚀 Tech stack
 
-**Languages and frameworks:**  
+**Languages & frameworks:**  
 Python · Django · JavaScript · TypeScript
 
 **AI / ML:**  
-Transformers · BERTopic · HDBSCAN · OpenAI/Anthropic API · General LLM tooling · RAG · Embeddings · SLMs... 
+Transformers · BERTopic · HDBSCAN · OpenAI / Anthropic APIs · RAG · Embeddings · SLMs
 
 **Other:**  
-D3.js · UX · Data Visualization · OSINT Tools and methdologies
+D3.js · UX · Data Visualization · OSINT tools & methodologies
 
 ---
 
-## What I’m Into
+## What I’m into
 
-- 🧠 **AI / ML tooling** & developer experience
-- 🎨 **UX & data‑visualization** ([viborc.com](https://viborc.com))
-- 🔎 **OSINT, disinformation tracking and national‑security/defense tech**
-- 🌄 **Outdoors and bikes** – balance the screen time with real horizons
+- 🧠 **AI/ML tooling** & developer experience (esp. real-time video AI, world models, interactive pipelines)  
+- 🎨 **UX & data-viz** ([viborc.com](https://viborc.com))  
+- 🔎 **OSINT, disinformation tracking, and nat-sec / defense tech**  
+- 🌄 **Outdoors & bikes** — balancing screen time with real horizons
 
 ---
 
 ## Currently
 
-- Growing Zencoder’s developer community & customer success motion
-- Speaking at conferences, hosting AMAs, and webinars
-- Hacking on AI–powered workflows and open‑source side projects
-- Building ;)
+- Growing the **Daydream** and **Scope** communities
+- Publishing practical guides, reference examples, and real-time video workflows  
+- Partnering with researchers & builders on world-model + streaming-inference use cases  
+- Hacking on open-source projects and pipelines
 
 ---
 
 ## Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/viborcipan)
-- 🐦 [Twitter / X](https://twitter.com/viborc)
-- 🌐 [viborc.com](https://viborc.com)
-- ✉️ vibor [at] viborc [dot] com
+- 💼 [LinkedIn](https://www.linkedin.com/in/viborcipan)  
+- 🐦 [Twitter / X](https://twitter.com/viborc)  
+- 🌐 [viborc.com](https://viborc.com)  
+- ✉️ vibor [at] viborc [dot] com
 
----
-
-> Always up for a chat about AI, UX, OSINT, or the next outdoors adventure. Ping me!
+> Always up for a chat about AI, UX, OSINT, or the next outdoors adventure.
