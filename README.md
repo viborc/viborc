@@ -1,53 +1,37 @@
-# Hey, I’m Vibor 👋
+# Hey, I'm Vibor 👋
 
-### Builder · Generalist-with-Depth · DevRel, Community & Growth
+**Leading Growth function at [Daydream](https://daydream.live)** - finding product-market fit for real-time AI video. I collaborate and run growth, user research, and community for **[Scope](https://github.com/daydreamlive/scope)**, an open-source tool for running interactive AI video pipelines. My job is to find the users who can't live without this and make sure the product earns that.
 
-I’m **Head of Community Growth at [Daydream](https://daydream.live)**, building the community around **real-time AI video models and world models**. I love playing with and contributing to **[Scope](https://github.com/daydreamlive/scope)**, an open-source tool for running real-time, interactive AI pipelines.
+Before Daydream, I was early at **[Lovable](https://lovable.dev)** (the AI app builder, formerly GPT-Engineer). Joined pre-PMF, helped build the operational and community foundation before it grew into a $400M+ ARR company.
 
-But I wear more than one hat:
-- **Ops & Community** — Ran day-to-day ops and community at **Lovable.dev** (the AI-first app builder that evolved from GPT-Engineer).
-- **Founder & agency leader** — 14 years building and scaling two UX / software-dev agencies shipping products used by 100s of millions.
-- **Early OSS Maintainer** — Helped maintain and grow **GPT-Engineer** (50k+ ⭐ on GitHub / 10k+ Discord) before it evolved into Lovable.
-- **Microsoft alum** — Cut my teeth at Microsoft (Croatia & Denmark), pre cloud-first era.
+Before that, 14 years as a founder running two UX and software studios. Products shipped to hundreds of millions of users. Before that, **Microsoft** (Croatia and Denmark).
+
+Physics background. Systems thinker. Hands-on. Still write code most days.
 
 ---
 
-## 🚀 Tech stack
+## Tech stack
 
-**Languages & frameworks:**  
-Python · Django · JavaScript · TypeScript
-
-**AI / ML:**  
-Transformers · BERTopic · HDBSCAN · OpenAI / Anthropic APIs · RAG · Embeddings · SLMs
-
-**Other:**  
-D3.js · UX · Data Visualization · OSINT tools & methodologies
+Python · Django · JavaScript · TypeScript · D3.js · Transformers · BERTopic · OpenAI/Anthropic APIs · RAG · UX · Data Visualization
 
 ---
 
-## What I’m into
+## Also into
 
-- 🧠 **AI/ML tooling** & developer experience (esp. real-time video AI, world models, interactive pipelines)  
-- 🎨 **UX & data-viz** ([viborc.com](https://viborc.com))  
-- 🔎 **OSINT, disinformation tracking, and nat-sec / defense tech**  
-- 🌄 **Outdoors & bikes** — balancing screen time with real horizons
+- OSINT, disinformation tracking, and defense tech. Co-authored research on LLM weaponization in information warfare and a paper on disinfo narratives
+- Great outdoors. Mountains, trails, fresh air. Balancing screen time with real horizons.
 
 ---
 
 ## Currently
 
-- Growing the **Daydream** and **Scope** communities
-- Publishing practical guides, reference examples, and real-time video workflows  
-- Partnering with researchers & builders on world-model + streaming-inference use cases  
-- Hacking on open-source projects and pipelines
+- Running structured growth experiments (cohort programs, user research, PMF signal extraction) at Daydream
+- Building AI agent workflows for growth, content, and general business operations ("agent army")
+- Publishing real-time video guides and reference pipelines for the Scope community
+- Partnering with researchers and creative technologists on world-model and real-time AI video streaming-inference use cases
 
 ---
 
 ## Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/viborcipan)  
-- 🐦 [Twitter / X](https://twitter.com/viborc)  
-- 🌐 [viborc.com](https://viborc.com)  
-- ✉️ vibor [at] viborc [dot] com
-
-> Always up for a chat about AI, UX, OSINT, or the next outdoors adventure.
+[LinkedIn](https://www.linkedin.com/in/viborcipan) · [Twitter/X](https://twitter.com/viborc) · [viborc.com](https://viborc.com) · vibor [at] viborc [dot] com
