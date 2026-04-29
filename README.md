@@ -8,6 +8,8 @@ Before that, 14 years as a founder running two UX and software studios. Products
 
 Physics background. Systems thinker. Hands-on. Still write code most days.
 
+Building in stealth (for now).
+
 ---
 
 ## Tech stack
