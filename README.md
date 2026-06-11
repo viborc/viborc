@@ -1,6 +1,6 @@
 # Hey, I'm Vibor 👋
 
-**Leading Growth function at [Daydream](https://daydream.live)** - finding product-market fit for real-time AI video. I collaborate and run growth, user research, and community for **[Scope](https://github.com/daydreamlive/scope)**, an open-source tool for running interactive AI video pipelines. My job is to find the users who can't live without this and make sure the product earns that.
+**Leading Growth function at [Daydream](https://daydream.live)** - finding product-market fit for real-time AI audio and video. I collaborate and run growth, user research, and community for **[Scope](https://github.com/daydreamlive/scope)**, an open-source tool for running interactive AI video pipelines and Daydream Music running on the **[DEMON engine](https://github.com/daydreamlive/demon)**. My job is to find the users who can't live without this and make sure the product earns that.
 
 Before Daydream, I was early at **[Lovable](https://lovable.dev)** (the AI app builder, formerly GPT-Engineer). Joined pre-PMF, helped build the operational and community foundation before it grew into a $400M+ ARR company.
 
