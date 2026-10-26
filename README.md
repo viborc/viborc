@@ -17,8 +17,6 @@ Physics background. Systems thinker. Hands-on. Still write code most days.
 
 Building in stealth (for now), at the intersection of tech, AI, OSINT and knowledge.
 
----
-
 ## Currently
 
 - Helping get Wasp to 1.0
@@ -26,20 +24,14 @@ Building in stealth (for now), at the intersection of tech, AI, OSINT and knowle
 - Fine-tuning small language models (SLMs) for OSINT, security and defense use cases
 - Exploring neuro-symbolic methods for retrieval: knowledge graphs combined with LLMs, for more accurate and explainable answers
 
----
-
 ## Also into
 
 - OSINT, disinformation tracking, and defense tech. Co-authored research on LLM weaponization in information warfare and a paper on disinfo narratives
 - Wildlife and the great outdoors. Mountains, forests and rivers. Balancing screen time with real horizons.
 
----
-
 ## Tech stack
 
 TypeScript · React · Node.js · Python · Django · JavaScript · D3.js · Transformers · BERTopic · OpenAI/Anthropic APIs · RAG · PostHog · Plausible · UX · Data Visualization
-
----
 
 ## Connect
 
